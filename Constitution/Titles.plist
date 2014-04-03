@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>en</key>
+		<string>General Principles</string>
+		<key>ru</key>
+		<string>Общие положения</string>
+		<key>uk</key>
+		<string>Загальні засади</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Human and Citizen Rights, Freedoms and Duties</string>
+		<key>ru</key>
+		<string>Права, свободы и обязанности человека и гражданина</string>
+		<key>uk</key>
+		<string>Права, свободи та обов&apos;язки людини і громадянина</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Elections. Referendum</string>
+		<key>ru</key>
+		<string>Выборы. Референдум</string>
+		<key>uk</key>
+		<string>Вибори. Референдум</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>The Verkhovna Rada of Ukraine</string>
+		<key>ru</key>
+		<string>Верховная Рада Украины</string>
+		<key>uk</key>
+		<string>Верховна Рада України</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>The President of Ukraine</string>
+		<key>ru</key>
+		<string>Президент Украины</string>
+		<key>uk</key>
+		<string>Президент України
+</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>The Cabinet of Ministers of Ukraine. Other Executive Authorities</string>
+		<key>ru</key>
+		<string>Кабинет Министров Украины. Органы исполнительной власти</string>
+		<key>uk</key>
+		<string>Кабінет Міністрів України. Інші органи виконавчої влади</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Public Prosecution</string>
+		<key>ru</key>
+		<string>Прокуратура</string>
+		<key>uk</key>
+		<string>Прокуратура</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Justice</string>
+		<key>ru</key>
+		<string>Правосудие</string>
+		<key>uk</key>
+		<string>Правосуддя</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Territorial Structure of Ukraine</string>
+		<key>ru</key>
+		<string>Территориальное устройство Украины</string>
+		<key>uk</key>
+		<string>Територіальний устрій України</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>The Autonomous Republic of Crimea</string>
+		<key>ru</key>
+		<string>Автономная Республика Крым</string>
+		<key>uk</key>
+		<string>Автономна Республіка Крим</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Local Self-Government</string>
+		<key>ru</key>
+		<string> Местное самоуправление</string>
+		<key>uk</key>
+		<string>Місцеве самоврядування</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>The Constitutional Court of Ukraine</string>
+		<key>ru</key>
+		<string>Конституционный суд Украины</string>
+		<key>uk</key>
+		<string>Конституційний Суд України</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Making Amendments to the Constitution of Ukraine</string>
+		<key>ru</key>
+		<string>Внесение изменений в Конституцию Украины</string>
+		<key>uk</key>
+		<string>Внесення змін до Конституції України</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Final Provisions</string>
+		<key>ru</key>
+		<string>Заключительные положения</string>
+		<key>uk</key>
+		<string>Прикінцеві положення</string>
+	</dict>
+	<dict>
+		<key>en</key>
+		<string>Transitional Provisions </string>
+		<key>ru</key>
+		<string>Переходные положения</string>
+		<key>uk</key>
+		<string>Перехідні положення</string>
+	</dict>
+</array>
+</plist>
