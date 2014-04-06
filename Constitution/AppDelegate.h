@@ -1,5 +1,4 @@
 #import <UIKit/UIKit.h>
-#import "MALocalizationSystem.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

@@ -3,10 +3,8 @@
 #import "ArticlesViewController.h"
 
 
-@interface ConstitutionViewTable : UITableViewController
-{
+@interface ConstitutionViewTable : UITableViewController{
     NSString *titleString;
-
 }
 
 @property (strong,nonatomic)  NSArray *titlesArray;

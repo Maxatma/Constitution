@@ -16,7 +16,7 @@ static NSString *_currentLanguage = nil;
 }
 
 -(MALocalizationSystem *) initUniqueInstance {
-    bundle=[[NSBundle alloc]init];
+    bundle = [[NSBundle alloc]init];
     bundle = [NSBundle mainBundle];
     return [super init];
 }

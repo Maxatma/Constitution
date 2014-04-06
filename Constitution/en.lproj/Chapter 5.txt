@@ -1,7 +1,9 @@
-Article 102. The President of Ukraine shall be the Head of the State and shall act on behalf of the State. 
+Article 102. 
+The President of Ukraine shall be the Head of the State and shall act on behalf of the State.
 The President of Ukraine shall be the guarantor of the state sovereignty and territorial integrity of Ukraine, the observance of the Constitution of Ukraine, human and citizen rights and freedoms.
 
-Article 103. The President of Ukraine shall be elected by the citizens 
+Article 103. 
+The President of Ukraine shall be elected by the citizens
 of Ukraine for a five-year period on the basis of universal, equal, and direct suffrage by secret ballot. 
 A citizen of Ukraine, having attained the age of thirty-five, having the right to vote, residing in Ukraine for the past ten years prior to the day of elections, and having command of the state language, may be elected the President of Ukraine. 
 The same person may not serve as the President of Ukraine for more than two consecutive terms.
@@ -10,7 +12,8 @@ Regular elections of the President of Ukraine shall be held on the last Sunday o
 A procedure for holding elections for the President of Ukraine shall 
 be established by law.
 
-Article 104. The newly elected President of Ukraine shall assume office within thirty days after the official announcement of the results of the election upon taking the oath to the people at a ceremonial meeting of the Verkhovna Rada of Ukraine. 
+Article 104. 
+The newly elected President of Ukraine shall assume office within thirty days after the official announcement of the results of the election upon taking the oath to the people at a ceremonial meeting of the Verkhovna Rada of Ukraine.
 The Chairman of the Constitutional Court of Ukraine shall administer the oath to the President of Ukraine. 
 The President of Ukraine shall take the following oath: 
 “I, (name and surname), elected by the will of the people as the President 
@@ -19,13 +22,15 @@ I pledge with all my undertakings to protect the sovereignty and independence
 of Ukraine, to provide for the good of the Motherland and the welfare of the Ukrainian people, to protect the rights and freedoms of citizens, to abide by the Constitution of Ukraine and laws of Ukraine, to exercise my duties in the interests of all compatriots, and to enhance the prestige of Ukraine in the world.” 
 The President of Ukraine elected by special election shall take the oath within five days after the official announcement of the election results.
 
-Article 105. The President of Ukraine shall enjoy the right of immunity for the period of his authority.
+Article 105. 
+The President of Ukraine shall enjoy the right of immunity for the period of his authority.
 Persons guilty of infringing upon the honour and dignity of the President 
 of Ukraine shall be liable according to law. 
 The title of the President of Ukraine shall be protected by law and shall 
 be reserved for the President for life, unless the President of Ukraine has been removed from the office in compliance with a procedure of impeachment.
 
-Article 106. The President of Ukraine shall: 
+Article 106. 
+The President of Ukraine shall:
  1) ensure the independence, national security, and legal succession of the State; 
  2) address the people, deliver annual and extraordinary speeches on the domestic and foreign situation of Ukraine to the Verkhovna Rada of Ukraine; 
  3) represent the State in international relations, administer the foreign political activity of the State, conduct negotiations and conclude international treaties; 
@@ -68,7 +73,8 @@ or bodies.
 The President of Ukraine shall issue decrees and directives mandatory for the execution on the territory of Ukraine on the basis and in pursuance of the Constitution and laws of Ukraine. 
 Acts of the President of Ukraine issued within the limits of authority stipulated in items 3, 4, 5, 8, 10, 14, 15, 17, 18, 21, 22, 23, 24 of this Article shall be countersigned by the Prime Minister of Ukraine and the Minister responsible for the act and its implementation.
 
-Article 107. The National Security and Defence Council of Ukraine shall 
+Article 107. 
+The National Security and Defence Council of Ukraine shall
 be the co-ordinating body to the President of Ukraine on the issues of national security and defence. 
 The National Security and Defence Council of Ukraine shall co-ordinate and control the activity of executive power bodies in the area of national security and defence. 
 The President of Ukraine shall be the Head of the National Security and Defence Council of Ukraine. 
@@ -80,18 +86,22 @@ Decisions of the National Security and Defence Council of Ukraine shall
 be put into effect by decrees of the President of Ukraine. 
 The competence and functions of the National Security and Defence Council of Ukraine shall be determined by law.
 
-Article 108. The President of Ukraine shall exercise his powers until the assumption of office by the newly elected President of Ukraine. 
+Article 108. 
+The President of Ukraine shall exercise his powers until the assumption of office by the newly elected President of Ukraine.
 The authority of the President of Ukraine shall be subject to an early termination in cases of: 
  1) resignation; 
  2) inability to exercise presidential authority for health reasons; 
  3) removal from office by the procedure of impeachment; 
  4) death.
 
-Article 109. The resignation of the President of Ukraine shall enter into force from the moment when he personally announces the statement of resignation at a meeting of the Verkhovna Rada of Ukraine.
+Article 109. 
+The resignation of the President of Ukraine shall enter into force from the moment when he personally announces the statement of resignation at a meeting of the Verkhovna Rada of Ukraine.
 
-Article 110. Incapability of the President of Ukraine to exercise his authority for health reasons shall be determined at a meeting of the Verkhovna Rada of Ukraine and confirmed by a decision adopted by the majority of its constitutional membership on the basis of a written petition of the Supreme Court of Ukraine, upon a recourse of the Verkhovna Rada of Ukraine and a medical opinion.
+Article 110. 
+Incapability of the President of Ukraine to exercise his authority for health reasons shall be determined at a meeting of the Verkhovna Rada of Ukraine and confirmed by a decision adopted by the majority of its constitutional membership on the basis of a written petition of the Supreme Court of Ukraine, upon a recourse of the Verkhovna Rada of Ukraine and a medical opinion.
 
-Article 111. The President of Ukraine may be removed from the office 
+Article 111. 
+The President of Ukraine may be removed from the office
 by the Verkhovna Rada of Ukraine in compliance with a procedure 
 of impeachment if he commits treason or other crime. 
 The issue of the removal of the President of Ukraine from the office 
@@ -103,5 +113,6 @@ The decision on the removal of the President of Ukraine from the office
 in compliance with the procedure of impeachment shall be adopted by the Verkhovna Rada of Ukraine by at least three-quarters of its constitutional membership upon a review of the case by the Constitutional Court of Ukraine, and receipt of its opinion on the observance of the constitutional procedure 
 of investigation and consideration of the case of impeachment, and upon a receipt of the opinion of the Supreme Court of Ukraine to the effect that the acts, of which the President of Ukraine is accused, contain elements of treason or other crime.
 
-Article 112. In the event of an early termination of the authority of the President of Ukraine in accordance with Articles 108, 109, 110 and 111 of this Constitution, the discharge of the duties of the President of Ukraine, for the period pending the elections and the assumption of the office by the next President 
+Article 112. 
+In the event of an early termination of the authority of the President of Ukraine in accordance with Articles 108, 109, 110 and 111 of this Constitution, the discharge of the duties of the President of Ukraine, for the period pending the elections and the assumption of the office by the next President 
 of Ukraine, shall be vested on the Prime Minister of Ukraine. The Prime Minister of Ukraine, for the period of discharge of the duties of the President of Ukraine, may not exercise the powers stipulated by items 2, 6 to 8, 10, 11, 12, 14, 15, 16, 22, 25, 27 of Article 106 of the Constitution of Ukraine.

@@ -2,16 +2,6 @@
 
 @implementation LanguageView
 
-
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
-{
-    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
-    if (self) {
-        // Custom initialization
-    }
-    return self;
-}
-
 #pragma mark - Button Methods
 
 - (IBAction)enButtonPressed:(UIButton*)sender {
@@ -28,7 +18,7 @@
     [self choosedButton:sender];
     [self presentLocalizedStoryboard:@"uk"];
 }
-
+#pragma mark -
 
 - (void)viewDidLoad
 {
@@ -50,12 +40,6 @@
 
     
     [super viewDidLoad];
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 

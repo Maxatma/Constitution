@@ -4,10 +4,10 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3747"/>
     </dependencies>
     <scenes>
-        <!--First View - Конституция Украины-->
+        <!--View Controller - Конституция Украины-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
-                <viewController id="vXZ-lx-hvc" customClass="FirstView" sceneMemberID="viewController">
+                <viewController id="vXZ-lx-hvc" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="5sS-6L-rAV"/>
                         <viewControllerLayoutGuide type="bottom" id="Ufj-gV-c3M"/>
@@ -34,7 +34,6 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="Language:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="xK2-j1-F43"/>
                                     <segue destination="PFl-u4-nWe" kind="push" id="Tio-Pr-K28"/>
                                 </connections>
                             </button>
@@ -46,8 +45,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="About:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="X2X-Pi-Tcm"/>
-                                    <segue destination="zZY-bw-NBm" kind="push" id="mBs-5n-APr"/>
+                                    <segue destination="zZY-bw-NBm" kind="push" id="rcS-pz-FWV"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -139,10 +137,10 @@
             </objects>
             <point key="canvasLocation" x="358" y="306"/>
         </scene>
-        <!--About - Контакты-->
+        <!--About View - Контакты-->
         <scene sceneID="ZVY-kP-Gkx">
             <objects>
-                <viewController id="zZY-bw-NBm" customClass="About" sceneMemberID="viewController">
+                <viewController id="zZY-bw-NBm" customClass="AboutView" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="tah-vH-vKz"/>
                         <viewControllerLayoutGuide type="bottom" id="w2q-Kp-0Ao"/>
@@ -151,10 +149,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Автор: Александр Махатма, скайп : spawnofhell. " textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Xch-SH-Kii">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="WxD-I0-e7X">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -164,6 +163,9 @@
                     <navigationItem key="navigationItem" title="Контакты" id="28w-SX-tte">
                         <barButtonItem key="backBarButtonItem" title="Back" id="JfU-AT-U2c"/>
                     </navigationItem>
+                    <connections>
+                        <outlet property="AboutTextView" destination="WxD-I0-e7X" id="hkJ-GC-jhG"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Mm9-IM-1QQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -203,7 +205,7 @@
                         <barButtonItem key="backBarButtonItem" title="Назад" id="0yJ-T4-4Ey"/>
                     </navigationItem>
                     <connections>
-                        <outlet property="chapterName" destination="5Xf-Xa-VqW" id="CBs-C1-mBV"/>
+                        <outlet property="chapterNameLabel" destination="5Xf-Xa-VqW" id="zM7-7p-7Qc"/>
                         <outlet property="chapterText" destination="UUc-fx-cdX" id="Y0P-Ed-hvi"/>
                     </connections>
                 </viewController>
